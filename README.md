@@ -1,2 +1,2 @@
 # SpotifyToMP3
-This is a Spotify playlist to MP3 converter so that I can listen to music on my runs
+Unlock the freedom to enjoy your favorite Spotify playlists on your runs by converting them to MP3 format with this convenient tool.
